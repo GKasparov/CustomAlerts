@@ -1,0 +1,4 @@
+name: CustomAlerts
+version: ${project.version}
+main: me.mazenz.customalerts.CustomAlerts
+api-version: 1.16
